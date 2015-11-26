@@ -1,0 +1,81 @@
+Back Quote
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+Minus
+Equals
+Backspace
+Tab
+Q
+W
+E
+R
+T
+Y
+U
+I
+O
+P
+Open Bracket
+Close Bracket
+Back Slash
+Caps Lock
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Semicolon
+Quote
+Enter
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Comma
+Period
+Slash
+Ctrl
+Alt
+Space
+Insert
+Delete
+Home
+End
+Page Up
+Page Down
+Up
+Left
+Down
+Right
+Num Lock
+Divide
+Multiply
+Subtract
+Numpad 7
+Numpad 8
+Numpad 9
+Numpad 4
+Numpad 5
+Numpad 6
+Numpad 1
+Numpad 2
+Numpad 3
+Numpad 0
+Decimal
+Add
